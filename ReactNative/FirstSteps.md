@@ -29,17 +29,19 @@
     $ npm install -g serve
 
 
-//  lets test it:
+//  Lets test it:
 
     $ serve -s build 
 
 
-//-> Congratulation... you did it -> a single side pwa. You can visit the build in your locahost shown in the terminal:
+Congratulation... you did it -> a single side pwa.
 
-    https:localhost:5000
+You can visit either of the links shown in the terminal to see the build:
+
+    https: localhost:5000
 
 
-// Wanna dive in deeper  ? :
+Wanna dive in deeper  ? :
 
 -> https://developers.google.com/web/tools/workbox/
 -> https://www.npmjs.com/package/sw-precache-webpack-plugin
@@ -52,7 +54,7 @@ https://github.com/facebook/create-react-app/blob/master/packages/cra-template/t
 # Set Up  Workbox:
 -> https://developers.google.com/web/tools/workbox/modules/workbox-cli
 
-npm install --save-dev workbox-cli
+    npm install --save-dev workbox-cli
 
 
 
